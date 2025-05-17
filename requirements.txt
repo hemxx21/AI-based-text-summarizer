@@ -1,0 +1,4 @@
+sumy
+requests
+beautifulsoup4
+PyPDF2
